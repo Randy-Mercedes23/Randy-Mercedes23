@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Randy Mercedes</h1>
+<h1 align="center">Hola 👋,  Soy Randy Mercedes</h1>
 <h3 align="center">Técnico en Desarrollo de Software</h3>
 
 - 📫 Contáctame **ramdymer2003@gmail.com**
